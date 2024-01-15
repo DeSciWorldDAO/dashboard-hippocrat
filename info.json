@@ -1,1 +1,20 @@
-
+{"name":"Hippocrat",
+"tokenSymbol":"$HPO ",
+"DaoOS":"Snapshot",
+"address":"",
+"description":"Hippocrat is a DeSci project focusing on Collaborative Protocol for Healthcare Data Collection & Management. Hippocrat is transforming healthcare by empowering individuals to take control of their health data through blockchain and zero-knowledge proof technologies. Within the HPO ecosystem, personal ownership of health data not only enhances the quality of personalized medical care but also contributes to global health. By leveraging blockchain technologies for data security, transmission, and payment, we are introducing our first application, 'Hippo': a universal remote medical consultation service that ensures equitable access to healthcare for everyone, irrespective of background, location, or language.",
+"whitePaperLink":"https://whitepaper.hippocrat.io/index/",
+"gallery":[{}],
+"deleted":false,
+"primaryColor":"#116cfb",
+"twitterHandle":"@Hippocrat_io",
+"coingeckoId":"hippocrat",
+"snapshotId":"https://daobase.ai/dao/HippocratDAO/DAOPage",
+"logo":"https://i.im.ge/2024/01/10/3Cu5tq.LqROfoGO-400x400.jpg",
+"telegramLink":"https://t.me/hippocrat_official",
+"discordLink":"",
+"website":"https://hippocrat.io/",
+"tokenDescription":"Hippocrat tokens (HPOs) are used within Hippocrat ecosystem to reward data providers for sharing data. They are also utilized to operate decentralized governance and open cooperative structures, thereby contributing to the project's long-term sustainability.",
+"tokenTradeLink":"https://upbit.com/exchange?code=CRIX.UPBIT.KRW-HPO",
+"tags":["Data Storage", "Blockchain protocols", "Biopharma", "Ecosystems"]  
+}
